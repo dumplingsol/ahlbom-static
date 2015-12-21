@@ -33,6 +33,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/logos\/cebicheria.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4321,
+		"inputAbbreviatedPath": "\/assets\/img\/logos\/cebicheria.png",
+		"outputAbbreviatedPath": "\/assets\/img\/logos\/cebicheria.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/logos\/colosseum.png": {
 		"fileType": 32768,
 		"ignore": 0,
