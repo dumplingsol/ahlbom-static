@@ -11,6 +11,105 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/assets\/img\/logos\/ahlbom.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1926,
+		"inputAbbreviatedPath": "\/assets\/img\/logos\/ahlbom.png",
+		"outputAbbreviatedPath": "\/assets\/img\/logos\/ahlbom.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/logos\/ballroom.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2930,
+		"inputAbbreviatedPath": "\/assets\/img\/logos\/ballroom.png",
+		"outputAbbreviatedPath": "\/assets\/img\/logos\/ballroom.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/logos\/colosseum.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3008,
+		"inputAbbreviatedPath": "\/assets\/img\/logos\/colosseum.png",
+		"outputAbbreviatedPath": "\/assets\/img\/logos\/colosseum.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/logos\/enzos.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1925,
+		"inputAbbreviatedPath": "\/assets\/img\/logos\/enzos.png",
+		"outputAbbreviatedPath": "\/assets\/img\/logos\/enzos.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/logos\/hornhuset.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1929,
+		"inputAbbreviatedPath": "\/assets\/img\/logos\/hornhuset.png",
+		"outputAbbreviatedPath": "\/assets\/img\/logos\/hornhuset.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/logos\/hotellet.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1695,
+		"inputAbbreviatedPath": "\/assets\/img\/logos\/hotellet.png",
+		"outputAbbreviatedPath": "\/assets\/img\/logos\/hotellet.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/logos\/laika.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3154,
+		"inputAbbreviatedPath": "\/assets\/img\/logos\/laika.png",
+		"outputAbbreviatedPath": "\/assets\/img\/logos\/laika.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/logos\/rigoletto.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2475,
+		"inputAbbreviatedPath": "\/assets\/img\/logos\/rigoletto.png",
+		"outputAbbreviatedPath": "\/assets\/img\/logos\/rigoletto.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/logos\/solidaritet.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1539,
+		"inputAbbreviatedPath": "\/assets\/img\/logos\/solidaritet.png",
+		"outputAbbreviatedPath": "\/assets\/img\/logos\/solidaritet.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/scss\/app.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
