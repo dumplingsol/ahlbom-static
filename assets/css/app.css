@@ -1,0 +1,11 @@
+#preFooter {
+  display: none !important; }
+
+.footer-logos {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  text-align: center;
+  margin-top: 40px; }
+  .footer-logos a {
+    margin: 0 20px; }

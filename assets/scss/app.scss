@@ -1,0 +1,16 @@
+#preFooter {
+    display: none !important;
+}
+
+.footer-logos {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 40px;
+
+    a {
+        margin: 0 20px;
+    }
+
+}
