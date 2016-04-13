@@ -20,10 +20,10 @@ body {
   border-radius: 3px; }
   .cta-btn.hornhuset {
     background: #00A89C; }
-  .cta-btn.solidaritet {
-    background: #462c82; }
   .cta-btn.rigoletto {
     background: #B47B1C; }
+  .cta-btn.solidaritet {
+    background: #5c315c; }
 
 #preFooter {
   display: none !important; }
