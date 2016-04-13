@@ -17,3 +17,32 @@
   border-radius: 3px; }
   .cta-btn.hornhuset {
     background: #00A89C; }
+
+#preFooter {
+  display: none !important; }
+
+.fixed-nav {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.9);
+  height: 50px;
+  padding: 10px 0;
+  box-sizing: border-box; }
+
+.footer-logos {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-content: center;
+      -ms-flex-line-pack: center;
+          align-content: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  text-align: center;
+  margin-top: 40px; }
+  .footer-logos a {
+    margin: 0 20px; }
