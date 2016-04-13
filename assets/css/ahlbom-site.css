@@ -36,6 +36,11 @@ body {
 .solidaritet .cta-btn {
   background: #824570; }
 
+.share {
+  text-align: center; }
+  .share > a {
+    margin: 0 5px; }
+
 #preFooter {
   display: none !important; }
 
