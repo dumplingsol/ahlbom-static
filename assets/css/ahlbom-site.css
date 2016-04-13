@@ -12,3 +12,6 @@
   border-radius: 3px; }
   .cta-btn.hornhuset {
     background: #00A89C; }
+
+body {
+  background: red !important; }
