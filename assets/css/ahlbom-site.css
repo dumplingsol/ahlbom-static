@@ -17,13 +17,23 @@ body {
   padding: 12px 20px 10px;
   text-transform: uppercase;
   font-weight: 600;
-  border-radius: 3px; }
-  .cta-btn.hornhuset {
-    background: #00A89C; }
-  .cta-btn.rigoletto {
-    background: #B47B1C; }
-  .cta-btn.solidaritet {
-    background: #824570; }
+  border-radius: 3px;
+  letter-spacing: 1px; }
+  .cta-btn > i {
+    font-size: 20px; }
+  .cta-btn.instagram {
+    background: #125688; }
+  .cta-btn.facebook {
+    background: #48649F; }
+
+.hornhuset .cta-btn {
+  background: #00A89C; }
+
+.rigoletto .cta-btn {
+  background: #B47B1C; }
+
+.solidaritet .cta-btn {
+  background: #824570; }
 
 #preFooter {
   display: none !important; }

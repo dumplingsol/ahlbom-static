@@ -32,16 +32,38 @@ body {
 	text-transform: uppercase;
 	font-weight: 600;
 	border-radius: 3px;
+	letter-spacing: 1px;
 
-	&.hornhuset {
+	> i {
+		font-size: 20px;
+	}
+
+	&.instagram {
+		background: #125688;
+	}
+
+	&.facebook {
+		background: #48649F;
+	}
+}
+
+.hornhuset {
+
+	.cta-btn {
 		background: #00A89C;
 	}
+}
 
-	&.rigoletto {
+.rigoletto {
+
+	.cta-btn {
 		background: #B47B1C;
 	}
+}
 
-	&.solidaritet {
+.solidaritet {
+
+	.cta-btn {
 		background: #824570;
 	}
 }
