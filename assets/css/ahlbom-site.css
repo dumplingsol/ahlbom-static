@@ -13,7 +13,7 @@ body {
 
 .cta-btn {
   background: #333;
-  color: #fff;
+  color: #fff !important;
   padding: 12px 20px 10px;
   text-transform: uppercase;
   font-weight: 600;
@@ -26,6 +26,8 @@ body {
     background: #125688 !important; }
   .cta-btn.facebook {
     background: #48649F !important; }
+  .cta-btn:focus {
+    color: #fff; }
 
 .hornhuset .cta-btn {
   background: #00A89C; }

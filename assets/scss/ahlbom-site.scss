@@ -27,7 +27,7 @@ body {
 
 .cta-btn {
 	background: #333;
-	color: #fff;
+	color: #fff !important;
 	padding: 12px 20px 10px;
 	text-transform: uppercase;
 	font-weight: 600;
@@ -45,6 +45,10 @@ body {
 
 	&.facebook {
 		background: #48649F !important;
+	}
+
+	&:focus {
+		color: #fff;
 	}
 }
 
