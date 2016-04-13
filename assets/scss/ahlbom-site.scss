@@ -36,14 +36,15 @@ body {
 
 	> i {
 		font-size: 20px;
+		margin-right: 3px;
 	}
 
 	&.instagram {
-		background: #125688;
+		background: #125688 !important;
 	}
 
 	&.facebook {
-		background: #48649F;
+		background: #48649F !important;
 	}
 }
 

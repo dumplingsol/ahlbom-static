@@ -20,11 +20,12 @@ body {
   border-radius: 3px;
   letter-spacing: 1px; }
   .cta-btn > i {
-    font-size: 20px; }
+    font-size: 20px;
+    margin-right: 3px; }
   .cta-btn.instagram {
-    background: #125688; }
+    background: #125688 !important; }
   .cta-btn.facebook {
-    background: #48649F; }
+    background: #48649F !important; }
 
 .hornhuset .cta-btn {
   background: #00A89C; }
