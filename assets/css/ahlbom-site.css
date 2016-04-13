@@ -1,7 +1,10 @@
 .headline-logo {
-  width: 100%; }
+  width: 100%;
+  text-align: center; }
   .headline-logo img {
     max-width: 150px; }
+  .headline-logo.hornhuset {
+    max-width: 100px; }
 
 .cta-btn {
   background: #333;
