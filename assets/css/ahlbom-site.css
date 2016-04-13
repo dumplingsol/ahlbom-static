@@ -44,8 +44,7 @@
   -webkit-justify-content: center;
       -ms-flex-pack: center;
           justify-content: center;
-  text-align: center;
-  margin-top: 40px; }
+  text-align: center; }
   .footer-logos a {
     margin: 0 20px;
     -webkit-box-align: center;
