@@ -26,9 +26,11 @@
   bottom: 0;
   width: 100%;
   background: rgba(0, 0, 0, 0.9);
-  height: 50px;
-  padding: 10px 0;
-  box-sizing: border-box; }
+  height: 70px;
+  padding: 15px 0;
+  box-sizing: border-box;
+  left: 0;
+  z-index: 999; }
 
 .footer-logos {
   display: -webkit-box;
@@ -45,4 +47,17 @@
   text-align: center;
   margin-top: 40px; }
   .footer-logos a {
-    margin: 0 20px; }
+    margin: 0 20px;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    opacity: 0.7;
+    -webkit-transform: .1s ease-out;
+            transform: .1s ease-out; }
+    .footer-logos a:hover {
+      opacity: 1; }
