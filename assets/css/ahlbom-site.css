@@ -85,3 +85,7 @@ body {
     transition: .2s ease-out; }
     .footer-logos a:hover {
       opacity: 1; }
+
+.horizontalrule-block {
+  padding-top: 0 !important;
+  padding-bottom: 0 !important; }
