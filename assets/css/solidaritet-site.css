@@ -7,7 +7,6 @@
   font-style: normal;
   padding: 1em 2.5em;
   border-width: 0;
-  text-align: center; }
-
-body {
-  background: red; }
+  text-align: center;
+  color: #fff;
+  text-transform: uppercase; }
