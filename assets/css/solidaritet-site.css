@@ -18,4 +18,5 @@
   #info-section .sqs-block-content p a:hover {
     opacity: .8; }
 #info-section .sqs-block.form-block.sqs-block-form {
-  padding-top: 10px; }
+  padding-top: 10px;
+  padding-bottom: 10px; }
