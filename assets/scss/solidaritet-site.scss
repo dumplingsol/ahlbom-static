@@ -16,6 +16,11 @@
 			text-align: center;
 			color: #fff;
 			text-transform: uppercase;
+			transition: .1s;
+
+			&:hover {
+				opacity: .8;
+			}
 		}
 	}
 }

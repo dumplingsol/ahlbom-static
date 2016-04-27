@@ -10,4 +10,8 @@
   border-width: 0;
   text-align: center;
   color: #fff;
-  text-transform: uppercase; }
+  text-transform: uppercase;
+  -webkit-transition: .1s;
+  transition: .1s; }
+  #info-section .sqs-block-content p a:hover {
+    opacity: .8; }
